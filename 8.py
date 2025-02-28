@@ -1,3 +1,3 @@
 import re
-text = "VDoteObnovaVishla"
+text = "RazDvaTriChetireAndDotaFu"
 print(re.findall('[A-Z][^A-Z]*', text))
